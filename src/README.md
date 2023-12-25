@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: /logo.svg
 heroText: 搬砖日记
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 
 projects:
   - icon: project
     name: 项目名称

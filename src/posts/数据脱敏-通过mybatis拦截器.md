@@ -1,8 +1,9 @@
 ---
+cover: /assets/images/mybatis.png
 description: 通过sql拦截器实现前端显示假脱敏
 aside: false
 date: 2023-11-10
-tags:
+tag:
   - Java
   - Mybatis
   - Spring

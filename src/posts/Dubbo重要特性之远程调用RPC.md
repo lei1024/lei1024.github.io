@@ -1,9 +1,10 @@
 ---
+cover: /assets/images/dubbo.png
 title: Dubbo特性RPC
 description: DubboRPC
 aside: false
 date: 2023-11-24
-tags:
+tag:
   - Dubbo
   - RPC
   - 远程调用

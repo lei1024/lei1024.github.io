@@ -1,9 +1,9 @@
 ---
-
+cover: /assets/images/jetbrains.png
 description: 使用ideavim
 aside: false
 date: 2023-11-22
-tags:
+tag:
   - Java
   - 开发工具
   - Vim

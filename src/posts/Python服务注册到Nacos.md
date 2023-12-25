@@ -1,9 +1,10 @@
 ---
+cover: /assets/images/python.png
 title: flask服务注册到nacos
 description: flask服务注册到nacos实战
 aside: false
 date: 2023-11-09
-tags:
+tag:
   - python
   - nacos
 

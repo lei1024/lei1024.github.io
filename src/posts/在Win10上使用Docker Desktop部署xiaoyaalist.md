@@ -1,8 +1,9 @@
 ---
+cover: /assets/images/docker.png
 description: docker desktop on windows 部署 alist
 aside: false
 date: 2023-11-14
-tags:
+tag:
   - Win10
   - Docker
   - NAS

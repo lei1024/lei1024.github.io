@@ -1,8 +1,9 @@
 ---
+cover: /assets/images/servers.png
 date: 2023-12-22
 category:
   - SSL
-tags:
+tag:
   - SSL
   - https
   - 建站
