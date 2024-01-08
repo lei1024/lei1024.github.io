@@ -14,7 +14,7 @@ tag:
 
 > AceJump
 
-![image-20231122101601545](https://s2.loli.net/2023/11/22/ILyTEg3xt6f9u2G.png)
+
 
 > IdeaVim-EasyMotion、IdeaVim-Quickscope、IdeaVim-Sneak、IdeaVimExtension、Which-Key
 

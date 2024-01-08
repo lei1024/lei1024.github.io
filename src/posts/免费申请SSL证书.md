@@ -34,8 +34,6 @@ This certificate expires on 2024-03-21.
 ```
 ### 最后，邮箱验证
 
-![image.png](https://s2.loli.net/2023/12/22/wb8DXhiJMolnVfe.png)
-
 ### 5.基于Docker环境下给Nginx进行配置
 - docker安装Nginx
 
@@ -44,7 +42,7 @@ This certificate expires on 2024-03-21.
   ```
 
 - 访问界面测试
-	![image.png](https://s2.loli.net/2023/12/22/wISLkVTGi6vMzbN.png)
+	
  - 挂载后重启
 
    ```dockerfile
@@ -108,7 +106,7 @@ This certificate expires on 2024-03-21.
   docker restart Nginx
   ```
 - 重新访问，已经是https了
-![image.png](https://s2.loli.net/2023/12/22/6DleOLvCc7ENyJH.png)
+
 
 # PS`更新`
 
