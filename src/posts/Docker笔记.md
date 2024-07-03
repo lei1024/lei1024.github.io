@@ -1,6 +1,7 @@
 ---
 
 title: Docker笔记
+cover: https://cdn.xf233.io/static/docker/static/UxK2beI0ros8O1xf2IJcWMvQnVb.png
 description: Docker
 aside: false
 date: 2024-7-3
