@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 博客主页
 heroImage: /logo.svg
-heroText: 搬砖日记
+heroText: 雷家豪的个人博客
 heroFullScreen: true
 tagline: 
 projects:
